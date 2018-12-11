@@ -1,0 +1,38 @@
+.head {
+background-color: #666666;
+color: #FFFFFF;
+}
+
+
+form {/*真ん中の要素*/
+
+  padding: 50px;
+  margin-left: 50px
+  }
+
+body {/*真ん中の要素*/
+
+  padding: 50px;
+  margin: 50px;
+  }
+
+.box {
+
+	width: 80px;
+ 	height: 80px;
+	padding: 10px;
+  	margin: 10px;
+	display: inline;
+}
+
+
+
+
+.sub {
+
+	padding: 10px;
+  	margin: 10px;
+}
+
+#666666
+#808080
