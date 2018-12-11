@@ -46,9 +46,9 @@ public class LoginServlet extends HttpServlet {
 		    // フォワード
 			RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/jsp/index.jsp");
 			dispatcher.forward(request, response);
-				    }
-
 		}
+
+}
 
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse

@@ -34,12 +34,6 @@ public class sinki extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 
-
-
-
-
-
-
 		// フォワード先
         String forwardPath = null;
 
